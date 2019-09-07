@@ -13,4 +13,4 @@ Play against your phone.
 
 #Enjoy the game!!
 
-<img src="IMG_4021.PNG" alt="screenshoot" width="100"/>
+<img src="IMG_4021.PNG" alt="screenshoot" width="200"/>
